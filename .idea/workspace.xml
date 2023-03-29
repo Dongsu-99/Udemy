@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43f3ab7c-a30f-4e07-b602-7eb7039afb59" name="변경" comment="Day -4 commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mynumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MynumberRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchExerciseRunner.java" afterDir="false" />
+    <list default="true" id="43f3ab7c-a30f-4e07-b602-7eb7039afb59" name="변경" comment="Day -7 commit">
+      <change afterPath="$PROJECT_DIR$/src/WhileNumberPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileNumberPlayerRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfElseIfRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfElseIfRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mynumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mynumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MynumberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MynumberRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,11 +104,30 @@
       <option name="project" value="LOCAL" />
       <updated>1679747590687</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day -7 commit">
+      <created>1680011950476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680011950476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day -4 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day -4 commit" />
+    <MESSAGE value="Day -7 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day -7 commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Mynumber.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
